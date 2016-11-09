@@ -1,0 +1,196 @@
+#av
+{
+	background-color: black;
+	height: 75px;
+	color:white;
+}
+.a11
+{
+	float: left;
+	padding: 10px;
+	margin-left: 70px;
+	font-size: 20px;
+}
+.a55
+{
+	float: right;
+	padding:10px;
+	margin-right: 90px;
+	background-color: green;
+	border-radius: 13px;
+}
+span
+{
+	color:green;
+}
+.di1
+{
+	width: 270px;
+	height: 120px;
+	border:2px solid #DCDCDC;
+	margin: 30px;
+	margin-left: 500px;
+}
+.di22
+{
+	text-align: center;
+	color:#DAA520;
+}
+.di44
+{
+	color:#DCDCDC;
+}
+.uli
+{
+	list-style-type: none;
+	margin-left: 60px;
+}
+.list
+{
+	display: inline;
+	padding: 50px;
+}
+.link
+{
+	text-decoration: none;
+	color:#696969;
+	font-family: serif;
+	font-weight: bold;
+}
+.link:hover{
+	background-color: white;
+	box-shadow: 5px 5px 5px gold;
+	border-radius: 20px;
+	width: 30px;
+}
+.list a:hover
+{
+	color:#DAA520;
+	text-decoration: underline;
+}
+.baaa
+{
+	background-color: #D3D3D3;
+}
+.ba11
+{
+	text-align: center;
+	color:#DAA520;
+
+}
+.ba33
+{
+	text-align: center;
+	color:#696969;
+}
+.work0
+{
+
+	width: 400px;
+	height: 300px;
+	float: left;
+	padding: 10px;
+	margin-left: 60px;
+}
+.work11
+{
+	width: 100px;
+	height: 50px;
+}
+.work44
+{
+	font-family: TimesNewRoman;
+	font-size: 20px;
+}
+.lab0
+{
+	padding-left: 60px;
+}
+.lab22
+{
+	text-decoration: none;
+	
+}
+.la11
+{
+    background-color: #E6E6FA;
+    width: 300px;
+	height: 50px;
+	margin-left: 60px;
+	color:black;
+
+}
+.bala0
+{
+	margin-left: 60px;
+	background-color: darkgray;
+	width: 1380px;
+	height: 200px;
+}
+.bala11
+{
+
+	padding-left: 30px;
+}
+.bala33
+{
+    font-family: TimesNewRoman;
+	font-size: 20px;
+	padding-left: 30px;
+
+}
+.bha0
+{
+	padding-left: 60px;
+}
+#slideshow { 
+    margin-top: -10px ;
+    position: relative; 
+    height: 550px;
+
+}
+
+#slideshow > div { 
+    position: absolute; 
+
+}
+#slideshow img
+{
+
+	height: 550px;
+	width: 1500px;
+}
+.muthu1
+{
+	width: 400px;
+	height: 400px;
+}
+.mu0
+{
+	margin-left: 60px;
+	width:1400px;
+	height: 600px;
+	
+}
+.mu22:hover
+{
+  border-color: gold;
+}
+.mu11
+{
+	width: 450px;
+	height: 500px;
+	float: left;
+}
+.mu22
+{
+	border:1px solid white;
+	text-align: center;
+
+}
+.deepa0
+{
+	font-family: timesnewroman;
+	font-size: 20px;
+	float: left;
+}
